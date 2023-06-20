@@ -1,5 +1,5 @@
 # HSH-UNet
-This is the official code repository for "HSH-UNet: Hybrid selective high order interactive U-shaped model for automated skin lesion segmentationt", 
+This is the official code repository for "HSH-UNet: Hybrid selective high order interactive U-shaped model for automated skin lesion segmentationt". Manuscript submission in progress. Once the manuscript is accepted we will make my model code public. Thank you for your support.
 
 **0. Main Environments**
 - python 3.8
@@ -28,8 +28,3 @@ python test.py
 ```
 - After testing, you could obtain the outputs in './results/'
 
-## References
-- [MALUNet](https://github.com/JCruan519/MALUNet)
-- [SKNet](https://github.com/implus/SKNet)
-- [HorNet](https://github.com/raoyongming/HorNet)
----
