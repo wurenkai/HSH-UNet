@@ -1,5 +1,6 @@
 # HSH-UNet
-This is the official code repository for "HSH-UNet". Manuscript submission in progress. Once the manuscript is accepted we will make our model code public. Thank you for your support.
+This is the official code repository for "HSH-UNet: Hybrid selective high order interactive U-shaped model for automated skin
+lesion segmentation".
 
 **0. Main Environments**
 - python 3.8
