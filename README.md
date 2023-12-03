@@ -1,6 +1,13 @@
+<div id="top" align="center">
+
 # HSH-UNet
-This is the official code repository for "HSH-UNet: Hybrid selective high order interactive U-shaped model for automated skin
-lesion segmentation".
+**HSH-UNet: Hybrid selective high order interactive U-shaped model for automated skin
+lesion segmentation**
+  [[paper link]](https://doi.org/10.1016/j.compbiomed.2023.107798)
+  
+  Renkai Wu, Hongli Lv, Pengchen Liang, Xiaoxu Cui, Qing Chang*, Xuan Huang*,
+
+</div>
 
 **0. Main Environments**
 - python 3.8
