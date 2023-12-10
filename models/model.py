@@ -462,6 +462,13 @@ class GlobalLocalFilter(nn.Module):
         x = self.post_norm(x)
         return x
 
+class Residual(nn.Module):
+    def __init__(self, fn):
+        super().__init__()
+        self.fn = fn
+
+    def forward(self, x):
+        return self.fn(x) + x
 
 # bottleneck
 class ConvMixerBlock(nn.Module):
